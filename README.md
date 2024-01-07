@@ -5,7 +5,7 @@ Hardware Intern Assignment
 Room automation systems aiming to increase energy efficiency, ease of use and security. Key automation components include lighting, temperature control (air conditioning and fans), window controls, appliances, routers, and fire alarm integration.
 
 ## Block Diagram/Schematic
-
+![Block Diagram] ("D:\DOWNLOADS\Data Flow Diagram_page-0001.jpg")
 * **User Interface:** Manual controls and controls by chatting with the user setting adjustments.
 * **Controller Center:** The central control center controls all automation components.
 * **Sensors:** Monitoring of the living room with temperature, occupancy and fire detection features.
