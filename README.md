@@ -43,7 +43,6 @@ https://drive.google.com/file/d/1aCZTCuCAek__5AVNnScsHq16p0WhfQF3/view?usp=shari
 
 ## Data Flow Diagrams
 
-![Data Flow Diagram](images/data_flow_diagram.png)
 
 * **User Inputs:** Commands from the user interface.
 * **Sensor Data:** Information from temperature, occupancy, and fire sensors.
